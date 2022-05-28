@@ -1,4 +1,8 @@
-In this project, let's build a **Comments App** by applying the concepts we have learned till now.
+In this project, I built a **Comments App** by applying the concepts I have learned till now.
+
+### You can visit the application here:
+
+<a href="https://kiranaddcomment.ccbp.tech/">Comments App</a>
 
 ### Refer to the image below:
 
@@ -81,7 +85,7 @@ Use these files to complete the implementation:
 ```js
 import {formatDistanceToNow} from 'date-fns'
 
-console.log(formatDistanceToNow(new Date())); // less than a minute
+console.log(formatDistanceToNow(new Date())) // less than a minute
 ```
 
 </details>
